@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/suryakantsamantray2005/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/suryakantsamantray2005/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/suryakantsamantray2005/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/suryakantsamantray2005/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Binary Search
 |  |
 | ------- |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/suryakantsamantray2005/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/suryakantsamantray2005/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/suryakantsamantray2005/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/suryakantsamantray2005/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Sorting
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/suryakantsamantray2005/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
