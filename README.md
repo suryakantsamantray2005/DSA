@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/suryakantsamantray2005/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/suryakantsamantray2005/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/suryakantsamantray2005/DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/suryakantsamantray2005/DSA/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/suryakantsamantray2005/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/suryakantsamantray2005/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/suryakantsamantray2005/DSA/tree/master/0162-find-peak-element) |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/suryakantsamantray2005/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/suryakantsamantray2005/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
