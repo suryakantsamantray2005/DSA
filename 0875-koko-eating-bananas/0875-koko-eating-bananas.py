@@ -6,7 +6,9 @@ class Solution:
             ceil=0
             mid=(low+high)//2
             for i in piles:
-                j = (i + mid - 1) // mid
+                j=i//mid
+                if i%mid!=0:
+                    j+=1
                 ceil=ceil+j
             if ceil<=h:
                 ans=mid
