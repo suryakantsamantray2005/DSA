@@ -7,9 +7,9 @@ class Solution:
             ceil=0
             mid=(low+high)//2
             for i in nums:
-                j=i/mid
+                j=i//mid
                 if i%mid!=0:
-                    j=int(j)+1
+                    j=j+1
                 ceil=ceil+j
             if ceil<=threshold:
                 ans=mid
