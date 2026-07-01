@@ -1,6 +1,6 @@
 class Solution:
     def minDays(self, bloomDay, m, k):
-        low=1
+        low=min(bloomDay)
         high=max(bloomDay)
         ans=-1
         while low<=high:
