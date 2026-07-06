@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/suryakantsamantray2005/DSA/tree/master/0392-is-subsequence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/suryakantsamantray2005/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Math
 |  |
@@ -71,9 +72,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/suryakantsamantray2005/DSA/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/suryakantsamantray2005/DSA/tree/master/0410-split-array-largest-sum) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/suryakantsamantray2005/DSA/tree/master/0410-split-array-largest-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/suryakantsamantray2005/DSA/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
