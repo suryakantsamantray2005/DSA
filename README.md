@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/suryakantsamantray2005/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/suryakantsamantray2005/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/suryakantsamantray2005/DSA/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/suryakantsamantray2005/DSA/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/suryakantsamantray2005/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/suryakantsamantray2005/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/suryakantsamantray2005/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -65,11 +66,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/suryakantsamantray2005/DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/suryakantsamantray2005/DSA/tree/master/0069-sqrtx) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/suryakantsamantray2005/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/suryakantsamantray2005/DSA/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/suryakantsamantray2005/DSA/tree/master/0074-search-a-2d-matrix) |
 ## Dynamic Programming
 |  |
