@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/suryakantsamantray2005/DSA/tree/master/0392-is-subsequence) |
+| [0796-rotate-string](https://github.com/suryakantsamantray2005/DSA/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/suryakantsamantray2005/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/suryakantsamantray2005/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Math
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/suryakantsamantray2005/DSA/tree/master/1291-sequential-digits) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/suryakantsamantray2005/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
