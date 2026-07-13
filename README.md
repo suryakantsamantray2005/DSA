@@ -110,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/suryakantsamantray2005/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/suryakantsamantray2005/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/suryakantsamantray2005/DSA/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
