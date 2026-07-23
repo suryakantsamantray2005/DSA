@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/suryakantsamantray2005/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/suryakantsamantray2005/DSA/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/suryakantsamantray2005/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/suryakantsamantray2005/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/suryakantsamantray2005/DSA/tree/master/0035-search-insert-position) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/suryakantsamantray2005/DSA/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/suryakantsamantray2005/DSA/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/suryakantsamantray2005/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/suryakantsamantray2005/DSA/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/suryakantsamantray2005/DSA/tree/master/0392-is-subsequence) |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/suryakantsamantray2005/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/suryakantsamantray2005/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
