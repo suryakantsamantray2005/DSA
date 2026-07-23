@@ -7,5 +7,5 @@ class Solution(object):
         smallest=min(nums)
         greatest=max(nums)
         while greatest!=0:
-           smallest, greatest=greatest,              smallest%greatest
+           smallest, greatest=greatest,smallest%greatest
         return smallest
