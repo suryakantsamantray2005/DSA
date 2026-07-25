@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/suryakantsamantray2005/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/suryakantsamantray2005/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/suryakantsamantray2005/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3536-maximum-product-of-two-digits](https://github.com/suryakantsamantray2005/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/suryakantsamantray2005/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/suryakantsamantray2005/DSA/tree/master/0069-sqrtx) |
 | [1903-largest-odd-number-in-string](https://github.com/suryakantsamantray2005/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/suryakantsamantray2005/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/suryakantsamantray2005/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/suryakantsamantray2005/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/suryakantsamantray2005/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/suryakantsamantray2005/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
