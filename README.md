@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/suryakantsamantray2005/DSA/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/suryakantsamantray2005/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/suryakantsamantray2005/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/suryakantsamantray2005/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/suryakantsamantray2005/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/suryakantsamantray2005/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/suryakantsamantray2005/DSA/tree/master/0875-koko-eating-bananas) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/suryakantsamantray2005/DSA/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/suryakantsamantray2005/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/suryakantsamantray2005/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/suryakantsamantray2005/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/suryakantsamantray2005/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/suryakantsamantray2005/DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/suryakantsamantray2005/DSA/tree/master/0069-sqrtx) |
+| [0628-maximum-product-of-three-numbers](https://github.com/suryakantsamantray2005/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/suryakantsamantray2005/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/suryakantsamantray2005/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/suryakantsamantray2005/DSA/tree/master/3536-maximum-product-of-two-digits) |
