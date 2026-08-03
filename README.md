@@ -130,12 +130,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/suryakantsamantray2005/DSA/tree/master/0141-linked-list-cycle) |
 | [0392-is-subsequence](https://github.com/suryakantsamantray2005/DSA/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/suryakantsamantray2005/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/suryakantsamantray2005/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/suryakantsamantray2005/DSA/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/suryakantsamantray2005/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/suryakantsamantray2005/DSA/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/suryakantsamantray2005/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/suryakantsamantray2005/DSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/suryakantsamantray2005/DSA/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/suryakantsamantray2005/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Counting
@@ -194,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/suryakantsamantray2005/DSA/tree/master/0206-reverse-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/suryakantsamantray2005/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
