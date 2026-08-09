@@ -5,17 +5,14 @@
 #         self.next = next
 class Solution:
     def deleteMiddle(self, head):
-        temp=head
-        count=0
-        while temp is not None:
-            count+=1
-            temp=temp.next
-        if count==1:
+        if head.next==None:
             return None
-        i=1
-        temp=head
-        while i<(count)//2:
-            temp=temp.next
-            i+=1
-        temp.next=temp.next.next
+        dummy=ListNode(0)
+        dummy.next=head
+        slow=dummy
+        fast=head
+        while fast is not None and fast.next is not None:
+            slow=slow.next
+            fast=fast.next.next
+        slow.next=slow.next.next
         return head
