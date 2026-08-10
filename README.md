@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/suryakantsamantray2005/DSA/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/suryakantsamantray2005/DSA/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suryakantsamantray2005/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/suryakantsamantray2005/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/suryakantsamantray2005/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/suryakantsamantray2005/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/suryakantsamantray2005/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/suryakantsamantray2005/DSA/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/suryakantsamantray2005/DSA/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/suryakantsamantray2005/DSA/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/suryakantsamantray2005/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/suryakantsamantray2005/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/suryakantsamantray2005/DSA/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/suryakantsamantray2005/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Enumeration
 |  |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/suryakantsamantray2005/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/suryakantsamantray2005/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/suryakantsamantray2005/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/suryakantsamantray2005/DSA/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/suryakantsamantray2005/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/suryakantsamantray2005/DSA/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/suryakantsamantray2005/DSA/tree/master/0328-odd-even-linked-list) |
@@ -219,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/suryakantsamantray2005/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/suryakantsamantray2005/DSA/tree/master/0142-linked-list-cycle-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/suryakantsamantray2005/DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
