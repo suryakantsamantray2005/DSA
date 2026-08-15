@@ -6,14 +6,38 @@
 
 class Solution:
     def getIntersectionNode(self, headA, headB):
-        visit=set()
         temp=headA
+        countA=0
         while temp is not None:
-            visit.add(temp)
+            countA+=1
             temp=temp.next
         temp=headB
+        countB=0
         while temp is not None:
-            if temp in visit:
-                return temp
-            else:
+            countB+=1
+            temp=temp.next
+        if countA>countB:
+            temp1=headB
+            temp=headA
+            count=0
+            diff=abs(countA-countB)
+            while count<diff:
+                count+=1
                 temp=temp.next
+            while temp1!=temp:
+                temp1=temp1.next
+                temp=temp.next
+            return temp1
+        else:
+            temp1=headA
+            temp=headB
+            count=0
+            diff=abs(countA-countB)
+            while count<diff:
+                count+=1
+                temp=temp.next
+            while temp1!=temp:
+                temp1=temp1.next
+                temp=temp.next
+            return temp1
+        
