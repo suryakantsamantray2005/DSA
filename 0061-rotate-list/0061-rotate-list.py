@@ -3,6 +3,7 @@
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
+# Rotate list leetcode 61
 class Solution:
     def rotateRight(self, head, k):
         temp=head 
@@ -17,7 +18,6 @@ class Solution:
             total_count+=1
             temp=temp.next
             tail=tail.next
-        total_count=total_count
         k=k%total_count
         if k==0:
             return head
@@ -31,3 +31,4 @@ class Solution:
         head_after_rotate=temp.next
         temp.next=None
         return head_after_rotate
+# time compelxity - O(n) and space compelxity - O(1)
