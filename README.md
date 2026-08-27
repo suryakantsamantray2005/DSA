@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/suryakantsamantray2005/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/suryakantsamantray2005/DSA/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/suryakantsamantray2005/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/suryakantsamantray2005/DSA/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/suryakantsamantray2005/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/suryakantsamantray2005/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/suryakantsamantray2005/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/suryakantsamantray2005/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/suryakantsamantray2005/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/suryakantsamantray2005/DSA/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/suryakantsamantray2005/DSA/tree/master/1922-count-good-numbers) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
