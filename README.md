@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/suryakantsamantray2005/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/suryakantsamantray2005/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/suryakantsamantray2005/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/suryakantsamantray2005/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Math
 |  |
 | ------- |
@@ -252,4 +253,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/suryakantsamantray2005/DSA/tree/master/0148-sort-list) |
+## Backtracking
+|  |
+| ------- |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/suryakantsamantray2005/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/suryakantsamantray2005/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
