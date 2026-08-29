@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/suryakantsamantray2005/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/suryakantsamantray2005/DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/suryakantsamantray2005/DSA/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/suryakantsamantray2005/DSA/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suryakantsamantray2005/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/suryakantsamantray2005/DSA/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/suryakantsamantray2005/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/suryakantsamantray2005/DSA/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/suryakantsamantray2005/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/suryakantsamantray2005/DSA/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/suryakantsamantray2005/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/suryakantsamantray2005/DSA/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/suryakantsamantray2005/DSA/tree/master/1922-count-good-numbers) |
 ## Floyd's Cycle Finding Algorithm
@@ -260,5 +262,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/suryakantsamantray2005/DSA/tree/master/0231-power-of-two) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/suryakantsamantray2005/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
