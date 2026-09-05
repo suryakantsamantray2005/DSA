@@ -1,11 +1,16 @@
 class Solution:
     def firstStableIndex(self, nums, k):
-        i=0
-        j=1
-        l=0
-        while j<=len(nums):
-            if max(nums[i:j])-min(nums[l:len(nums)])<=k:
-               return l
-            j+=1
-            l+=1
+        maximum_array=[]
+        minimum_array=[]
+        maximum=nums[0]
+        minimum=nums[-1]
+        for i in range(0,len(nums)):
+            maximum=max(maximum,nums[i])
+            maximum_array.append(maximum)
+        for j in range(len(nums)-1,-1,-1):
+            minimum=min(minimum,nums[j])
+            minimum_array.append(minimum)
+        for l in  range(0,len(nums)):
+            if maximum_array[l]-minimum_array[len(nums)-l-1]<=k:
+                return l
         return -1
